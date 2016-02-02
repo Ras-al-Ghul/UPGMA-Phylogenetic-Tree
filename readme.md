@@ -22,8 +22,7 @@ Construct a phylogenetic relationship for the given nucleotide sequences(Nucleot
 For example:  
 	seq1 = 'ATGCATGCAA'  
 	seq2 = 'ATGCATGCTA'  
-	Distance(seq1,seq2) = Mismatches/total length = 1/10 = 0.1  
-
+	Distance(seq1,seq2) = Mismatches/total length = 1/10 = 0.1
 - Write a script that uses 'Ndistance.txt' and generate phylogenetic relationship between the organisms using UPGMA method.
 
 ####Question 2
